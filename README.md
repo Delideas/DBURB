@@ -1,7 +1,7 @@
-# DBURB
-Le projet "Dragon Ball Ultra Rising Battle"
+# Dragon Ball Ultra Rising Batlle
+Ceci est le dépot git du projet.
 Le projet est en alpha !
-## Createurs de Delideas
--[Alexis Senepart](https://github.com/Kh4ru)
+## Créateurs de Delideas
+- [Alexis Senepart](https://github.com/Kh4ru)
+- [Théo Baume](https://github.com/Nasus02X)
 - Melvyn Leroux
-- Théo Baume
