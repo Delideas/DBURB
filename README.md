@@ -1,8 +1,7 @@
 # DBURB
 Le projet "Dragon Ball Ultra Rising Battle"
-[!WARNING]
->Le projet est en alpha !
-## Credits
-- Alexis Senepart
+Le projet est en alpha !
+## Createurs de Delideas
+- [Alexis Senepart]("https://github.com/Kh4ru")
 - Melvyn Leroux
 - Théo Baume
