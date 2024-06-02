@@ -1,5 +1,5 @@
 # Dragon Ball Ultra Rising Battle
-[logo du jeu](Nouveau projet.png)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 Ceci est le dépot git du projet.
 Le projet est en alpha !
 ## Créateurs du Projet
