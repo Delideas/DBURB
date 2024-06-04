@@ -5,5 +5,4 @@ Dragon Ball Ultra Rising Battle est un futur fan game créer par des fans du man
 - [Alexis Senepart](https://github.com/Kh4ru)
 - [Théo Baume](https://github.com/Nasus02X)
 - Melvyn Leroux
-> [!CAUTION]
-> Le projet n'est pas commencé.
+![Logo de Delideas](https://github.com/Delideas/DBURB/blob/images/logo.png)
