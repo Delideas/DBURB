@@ -18,4 +18,4 @@ This project will soon be available on Mobile (Android).
 [![logo discord](https://avatars.githubusercontent.com/u/1965106?s=64&v=4)](https://discord.gg/JuU67wDf9u)
 
 ### Moteur de jeu / Game engine
-[![logo discord](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png)](https:godotengine.org)
+[![logo discord](https://godotengine.org/assets/press/logo_large_color_dark.svg)](https://godotengine.org)
