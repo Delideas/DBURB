@@ -15,4 +15,17 @@ Dragon Ball Ultra Rising Battle is an upcoming fan game created by fans of the m
 This project will soon be available on Mobile (Android).
 
 ## Réseaux / Networks
-[![logo discord](https://avatars.githubusercontent.com/u/1965106?s=64&v=4)](https://discord.gg/JuU67wDf9u)
+<a href="https://discord.gg/JuU67wDf9u" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/1965106?s=64&v=4" alt="logo discord">
+</a>
+<a href="https://www.youtube.com/channel/UCVOTYYJ" onclick="playSound()" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="logo youtube" width="64">
+</a>
+
+<audio id="youtubeSound" src="URL_DE_VOTRE_SON.mp3" preload="auto"></audio>
+
+<script>
+function playSound() {
+    document.getElementById('youtubeSound').play();
+}
+</script>
