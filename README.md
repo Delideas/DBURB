@@ -21,3 +21,20 @@ This project will soon be available on Mobile (Android).
 <a href="https://godotengine.org">
     <img src="https://godotengine.org/assets/press/logo_large_color_dark.svg" alt="logo godot" width="64">
 </a>
+
+<style>
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+a {
+    color: #bb86fc;
+}
+a:hover {
+    color: #3700b3;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+</style>
