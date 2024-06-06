@@ -7,3 +7,5 @@
 ## Infos sur le projet
 Dragon Ball Ultra Rising Battle est un futur fan game créer par des fans du manga.\
 Ce projet sera prochainement disponnible sur Mobile (Android)
+## Discord
+[Le discord du projet](https://discord.gg/XSZtxAc47s)
