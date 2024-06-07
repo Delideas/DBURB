@@ -5,7 +5,7 @@
 ## Créateurs du Projet / Project Creators
 - [Alexis Senepart](https://github.com/Kh4ru)
 - [Théo Baume](https://github.com/Nasus02X)
-- Melvyn Leroux
+- [Melvyn Leroux](https://github.com/Raboxe)
 
 ## Infos sur le projet / Project Information
 Dragon Ball Ultra Rising Battle est un futur fan game créé par des fans du manga.\
